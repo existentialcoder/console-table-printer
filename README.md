@@ -6,7 +6,7 @@
   </a>
   <a href="https://codecov.io/gh/ayonious/console-table-printer">
     <img alt="codecov" src="https://codecov.io/gh/ayonious/console-table-printer/branch/master/graph/badge.svg">
-  </a>
+  </a> 
   <a href="https://badge.fury.io/js/console-table-printer">
     <img alt="npm version" src="https://badge.fury.io/js/console-table-printer.svg">
   </a>
